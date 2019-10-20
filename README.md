@@ -4,7 +4,6 @@ A simple benchmark that I wrote for personal usage. I wanted to test if upgradin
 ## Usage:
 ```
 python3 benchmark.py [-cuda]
-
 ```
 -cuda flags uses the GPU for matrix operations. 
 
@@ -37,5 +36,4 @@ CPU: i7 8700K (Cores and cache overclocked to 5Ghz)
 >>> Matrix dot product step (CPU): 		42.363847 seconds
 >>> Searching for nearest neighbors step (CPU): 43.447828 seconds
 >>> Exporting embedding from RAM to Disk step: 	11.702238 seconds
-
 ```
