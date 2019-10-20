@@ -1,14 +1,14 @@
 # PC-Benchmark-Embeddings
 A simple benchmark that I wrote for personal usage. I wanted to test if upgrading the RAM modules of my PC I would speed up some of the workload that I usually do with my PC, so I adapted some lines of code to run a little benchmark and get some measures. This is not an objective benchmark to compare hardware, just a benchmark for personal usage, probably useless to 99.99% of people. I am uploading this to store the code somewhere to be able to use it another day if I need to. 
 
-Usage:
+## Usage:
 ```
 python3 benchmark.py [-cuda]
 
 ```
 -cuda flags uses the GPU for matrix operations. 
 
-Requeriments:
+## Requeriments:
 
 ```
 -tensoflow
@@ -18,10 +18,8 @@ Requeriments:
 -numpy
 ```
 
-Example:
-
-Hardware used:
-  - i7 8700K (Cores and cache overclocked to 5Ghz)
+## Example:
+CPU: i7 8700K (Cores and cache overclocked to 5Ghz)
  
 ```
 ----------------[2 X 16gb 2400Mhz CL15]---------------------------
