@@ -2,7 +2,6 @@ from utils import isInt_float
 import numpy as np
 import regex
 from sklearn.preprocessing import normalize
-from num2words import num2words
 from vocabulary import Vocabulary
 import pandas as pd
 import logging
