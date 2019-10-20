@@ -1,5 +1,5 @@
 # PC-Benchmark-Embeddings
-A simple benchmark that I wrote for personal usage. I wanted to test if upgrading the RAM modules of my PC I would speed up some of the workload that I usually do with my PC, so I adapted some lines of code to run a little benchmark and get some measures. This is not an objective benchmark to compare hardware, just a benchmark for personal usage, probably useless to 99.99% of people. I am uploading this to store the code somewhere to be able to use it another day if I need to. 
+A  simple benchmark that I wrote for personal usage. I wanted to test if upgrading the RAM modules of my PC I would speed up some of the workloads that I usually do with my PC, so I adapted some lines of code to run a little benchmark and get some measures. This is not an objective benchmark to compare hardware, just a benchmark for personal usage, probably useless to 99.99% of people. I am uploading this to store the code somewhere to be able to use it another day if I need to. 
 
 ## Usage:
 ```
